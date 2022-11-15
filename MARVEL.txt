@@ -1,0 +1,7 @@
+﻿<html> 
+<head> <title> mcu </title> </head>
+<h1> Ironmam </h1> <body bg color="pink"> I am iron man </b> <img src ="D:\I...Am...Iron Man.jpeg" widht=239 height=500> 
+
+<h2> Captain america </h2> <b2> I can do this all day </b2>
+<h3> Thor </h3> <b3> Bring me thanos </b3>  </body> 
+</html>
